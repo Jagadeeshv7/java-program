@@ -12,6 +12,6 @@ public class Bike
 	}
 	public int mileage()
 	{
-		return 40;
+		return 50;
 	}
 }
